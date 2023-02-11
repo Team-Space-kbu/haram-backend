@@ -1,4 +1,4 @@
-package com.space.haramspring.user.core.entity;
+package com.space.haramspring.core.entity.users;
 
 import lombok.Builder;
 import lombok.Getter;
